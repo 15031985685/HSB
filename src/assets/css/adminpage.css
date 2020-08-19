@@ -1,0 +1,41 @@
+/**/
+.cm-center{width:1200px; margin:0 auto;}
+.cm-header{height:100px;}
+.cm-header .logos{padding-top:12px;}
+.cm-header .logos .logo{width:610px;height:70px; background:url("../img/logo.jpg") no-repeat; cursor:pointer;}
+.cm-header .lines{padding-top:10px; padding-left:20px; padding-right:20px;}
+.cm-header .sublogo{padding-top:30px; font-size:24px; color:#f60;}
+.cm-header .piclogo{padding-top:25px;}
+.cm-header .menuinfo{padding-top:22px; *padding-top:26px; _padding-top:28px;}
+.cm-header .topmenus{text-align:right;}
+.cm-header .topmenus .mline{padding-left:10px; padding-right:10px; color:#ccc; font-size:12px;}
+.cm-header .topmenus .menu{font-size:12px;}
+.cm-header .topmenus .menu a{font-size:12px; color:#000;}
+.cm-header .topmenus .menu a:hover{color:#f90;}
+.cm-header .topinfos{text-align:right;padding-top:8px;}
+.cm-header .topinfos .mline{padding-left:10px; padding-right:10px; color:#ccc; font-size:14px;}
+.cm-header .topinfos .menu{font-size:14px;}
+.cm-header .topinfos .menu a{font-size:14px;}
+.cm-header .topinfos .menu a:hover{}
+
+.userlogin{height:392px; background:#fff url("../img/logo-banner-bg.jpg") no-repeat center; width:100%;}
+.userlogin .banner{width:1100px;overflow:hidden; margin:0 auto;}
+.userlogin .banner .banner-img{width:660px; height:392px; overflow:hidden;}
+.userlogin .banner .banner-img .logo-img{margin-top:10px;}
+.userlogin .banner .form{width:400px; height:392px; overflow:hidden;}
+.userlogin .banner .form .form-top{height:10px; background:#00bbff; border-radius:5px 5px 0 0;}
+.userlogin .banner .form .form-bottom{height:10px; background:#00bbff; border-radius:0 0 5px 5px;}
+.userlogin .banner .form .form-main{height:372px; background:#fff; *margin-top:-7px;}
+.userlogin .banner .form .form-main .form-wid{width:310px; overflow:hidden; margin:0 auto;}
+.userlogin .banner .form .form-main .form-wid .form-bor{border:1px #ccc solid;border-radius:5px; }
+.userlogin .banner .form .form-main .form-wid .form-bor .row-bor{border-bottom:1px #ccc solid;}
+.userlogin .banner .form .form-main .form-wid .form-bor .row{height:55px; line-height:55px; overflow:hidden; font-size:16px; color:#666;}
+.userlogin .banner .form .form-main .form-wid .form-bor .row .input{border:0 none; width:200px; height:35px; line-height:35px; padding:0 10px; *margin-top:8px;}
+.userlogin .banner .form .form-main .form-wid .form-bor .row .input2{border:0 none; width:90px; height:35px; line-height:35px; padding:0 10px; *margin-top:8px;}
+.userlogin .banner .form .form-main .form-wid .form-bor .row .yzm img{padding-top:6px;}
+.userlogin .banner .form .form-main .marquee{font-size:14px; color:#666;}
+.userlogin .banner .form .form-main .but .button{margin-top:8px; background:#0E79CB; color:#fff; width:100%; height:40px; line-height:40px; text-align:center; border-radius:5px 5px;}
+.userlogin .banner .form .form-main .but .button a{font-size:16px;}
+
+.remember{margin-top:8px;}
+.remember input[type="checkbox"]{ vertical-align:middle;}

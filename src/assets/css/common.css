@@ -1,0 +1,13 @@
+html{border:0px;}
+body{background:#fff;}
+body,div,td{margin:0px;padding:0px;border:0px;font-family:Microsoft Yahei,Arial;}
+input,select,textarea{margin:0px;padding:0px;border:0px;font-family:Microsoft Yahei,Arial;}
+form,img,dl,dt,dd,iframe{margin:0px;padding:0px;border:0px;}
+ul,li{margin:0px;padding:0px;border:0px;list-style-type:none;}
+a{color:#08f;text-decoration:none;cursor:pointer;}
+a,input{outline:none;}
+a:hover{color:#f50;text-decoration:none;cursor:pointer;}
+
+.fl{float:left;}
+.fr{float:right;}
+.clear{clear:both;}
